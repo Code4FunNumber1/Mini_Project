@@ -1,3 +1,37 @@
+* {
+    font-family: Impact, serif;
+}
+
+body {
+    margin: 0;
+    background-color: #f4a52b;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;'
+    font-size: 50px;
+    color: #003fa7;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article {
+    background-color: #223b71;
+    color: #f5c22e;
+    font-family: Impact, serif;
+    font-size: 20px;
+    margin: 5px 0 0;
+}
+
+article p {
+    margin: 0;
+}
+
 #header-img {
     background: #dcdcdc;
     width: 100%;
@@ -7,7 +41,4 @@
 
 #header-img img {
     width: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
 }
