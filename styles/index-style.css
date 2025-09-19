@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-    background-color: #f4a52b;
+    background-color: #f5c22e;
 }
 
 h1 {
@@ -25,7 +25,7 @@ article {
     color: #f5c22e;
     font-family: Impact, serif;
     font-size: 20px;
-    margin: 5px 0 0;
+    margin: 5px 0;
 }
 
 article p {
@@ -41,4 +41,30 @@ article p {
 
 #header-img img {
     width: 400px;
+}
+
+.image-link{
+    display: block;
+}
+
+#sonic-link {
+    background-image: radial-gradient(rgba(61,158,203,0.81), rgba(0,15,255,0.81));
+}
+
+#streets-of-rage-link {
+    background-image: radial-gradient(#ff5d61, #ff2a28);
+    padding-bottom: 7px;
+}
+
+#vectorman-link {
+    background-image: radial-gradient(#ff5d61, #007a00);
+    padding: 15px 10px;
+}
+
+#monkey-ball-link {
+    background-image: radial-gradient(#ffe8a9, #ffe500);
+}
+
+#persona-link {
+    background-image: radial-gradient(circle, blue 1%, yellow, red);
 }
