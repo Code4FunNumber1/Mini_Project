@@ -9,7 +9,7 @@ body {
 
 h1 {
     text-align: center;
-    text-transform: uppercase;'
+    text-transform: uppercase;
     font-size: 50px;
     color: #003fa7;
 }
@@ -66,5 +66,5 @@ article p {
 }
 
 #persona-link {
-    background-image: radial-gradient(circle, blue 1%, yellow, red);
+    background-image: radial-gradient(circle, blue, yellow, red);
 }
