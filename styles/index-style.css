@@ -4,7 +4,6 @@
 
 body {
     margin: 0;
-    background-color: #f5c22e;
 }
 
 h1 {
@@ -21,11 +20,13 @@ img {
 }
 
 article {
-    background-color: #223b71;
-    color: #f5c22e;
     font-family: Impact, serif;
     font-size: 20px;
     margin: 5px 0;
+}
+
+a {
+    margin-bottom: 10px;
 }
 
 article p {

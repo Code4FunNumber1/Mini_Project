@@ -16,3 +16,7 @@ img {
 main p {
     text-indent: 20px;
 }
+
+h2 {
+    border-bottom: black 5px solid;
+}
